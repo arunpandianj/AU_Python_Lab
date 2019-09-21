@@ -1,5 +1,4 @@
 # AU_Python_Lab
-Anna university Python lab program
 GE8161 PROBLEM SOLVING AND PYTHON PROGRAMMING LABORATORY
 
 
